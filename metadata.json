@@ -1,0 +1,6 @@
+{
+  "name": "IndiaStockPulse",
+  "description": "Real-time dashboard for Indian stock market breakout tracking, candlestick patterns, and technical indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
